@@ -1,4 +1,3 @@
-## MIE 1517 group project
 ### Overview
 
 Have you ever seen a photo of a person who looks extremely familiar, and the name is on the tip of your tongue, but you just can't quite get it? Well, if you're bad with names like me, this happens frequently especially for celebrities. That's why we thought it would be useful to develop a model that can tell you the name. To make the project more feasible, we decided to limit the pool of celebrities to our 10 favourite cast members in the Marvel Avengers series.
